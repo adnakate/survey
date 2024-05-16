@@ -35,3 +35,25 @@ Code Comments
 
 Dockerfile / Bash script if needed for us to run the exercise
 
+## Solution
+Take github repo using git clone to your local
+
+Go inside the folder
+
+To run the code - use command ruby run.rb
+
+To clear the store - use command ruby clear_store.rb
+
+To run test cases -  use command rspec questionnaire_spec.rb
+
+## Use cases covered
+
+Invalid inputs handled. System will ask to enter input until user enters valid input.
+
+All permutaion and combinations of inputs are handled.
+
+You can clear the entire store whenever you want.
+
+Current run rating and average rating of all the runs is caluculated for every run.
+
+Required test cases are added.
